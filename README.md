@@ -1,5 +1,7 @@
 # HelloWorldEnterpriseEdition
 
+[![.NET](https://github.com/TheJaysH/HelloWorldEnterpriseEdition/actions/workflows/dotnet.yml/badge.svg)](https://github.com/TheJaysH/HelloWorldEnterpriseEdition/actions/workflows/dotnet.yml)
+
 HelloWorldEnterpriseEdition is an enterprise-level "Hello, World!" application written in C#. It demonstrates various enterprise software development principles such as dependency injection, logging, exception handling, unit testing, and more.
 
 ## Project Structure
