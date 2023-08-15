@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldEnterpriseEdition.Tests", "tests\HelloWorldEnterpriseEdition.Tests\HelloWorldEnterpriseEdition.Tests.csproj", "{940C6B73-9EDA-4F45-88C5-C083FA542F59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{3CF2484B-4806-4AB3-857C-30C9F579D387}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CF2484B-4806-4AB3-857C-30C9F579D387}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CF2484B-4806-4AB3-857C-30C9F579D387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{940C6B73-9EDA-4F45-88C5-C083FA542F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940C6B73-9EDA-4F45-88C5-C083FA542F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940C6B73-9EDA-4F45-88C5-C083FA542F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940C6B73-9EDA-4F45-88C5-C083FA542F59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
